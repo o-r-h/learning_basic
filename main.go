@@ -6,6 +6,7 @@ import (
 	"learning_basic/exercise02"
 	"learning_basic/exercise03"
 	"learning_basic/exercise04"
+	"learning_basic/exercise05"
 )
 
 func main() {
@@ -17,5 +18,7 @@ func main() {
 	exercise03.Examples_cicles()
 	fmt.Println("")
 	exercise04.Examples_conditionals()
+	fmt.Println("")
+	exercise05.Examples_arrays()
 
 }
